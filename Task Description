@@ -12,3 +12,23 @@ The bank is requesting that after working these alerts, as much fraud value as p
 The bank has provided 1 year of historical transactional data and fraud flags and asked you build a model 
 which predicts the likelihood that a transaction is later marked as fraud. They have also provided a brief 
 data dictionary, which describes some general payments terms.
+
+Format of Report
+Please return the code used to generate the model and a 2-slide presentation pitched at the bank’s executive board,
+which describes the performance your model achieved on an appropriately chosen test set, and the uplift this would 
+provide the bank as a business.
+You should aim to spend no more than half a day on the task. Please perform this task without the use of a ‘notebook’,
+like Jupyter, and instead submit your work in the form as a script.
+Assessment
+You will be assessed on the following skills:
+•	Using data in a sensible way to solve the business problem.
+•	Extracting useful signals from the data.
+•	Choice and application of algorithms.
+•	General coding quality.
+•	Clarity of communication.
+
+
+You will not be assessed on the following skills:
+•	Performance of your classifier (past a low threshold).
+•	Choice of programming language.
+
